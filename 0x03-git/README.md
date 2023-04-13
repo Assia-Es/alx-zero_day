@@ -1,1 +1,1 @@
-My 2 readme
+Starting to code today, so cool
